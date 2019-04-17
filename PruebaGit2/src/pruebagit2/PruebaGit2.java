@@ -6,7 +6,7 @@
 package pruebagit2;
 
 /**
- *
+ * demo mariano
  * @author programador
  */
 public class PruebaGit2 {
